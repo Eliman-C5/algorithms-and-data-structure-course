@@ -1,7 +1,5 @@
 //Ejecuta tu preuba aqui
 
-// console.log(mergeTwoLists(l1, l2));
-
 import { mergeTwoLists, ListNode } from "../src/02-merge-two-sorted-lists";
 
 describe("Exercise 2 from Linked Lists", () => {
